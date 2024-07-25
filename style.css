@@ -1,9 +1,9 @@
 :root{
     --cor-de-fundo: #617274;
-    --texto-fundo:#210838fd;
+    --texto-fundo:#615869fd;
 }
 body{
-    background-color: rgb(47, 85, 72);
+    background-color: rgb(117, 133, 127);
     color: rgb(86, 122, 143)
     
 
