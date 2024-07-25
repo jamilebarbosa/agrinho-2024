@@ -1,5 +1,5 @@
 :root{
-    --cor-de-fundo: #065f6a;
+    --cor-de-fundo: #33656b;
     --texto-fundo:#210838fd;
 }
 body{
@@ -7,4 +7,7 @@ body{
     color: rgb(8, 134, 92
     
 
+}
+titulo-principal{
+     text-align:left
 }
